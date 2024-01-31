@@ -1,6 +1,6 @@
 # Centos OS Base Profile "master" branch
 
-<img align="right" src="https://wiki.centos.org/ArtWork/Brand/Logo?action=AttachFile&do=get&target=centos-logo-light.svg" height=40% width=40%>
+<img align="right" src="https://wiki.centos.org/attachments/ArtWork(2f)Brand(2f)Logo/centos-logo-light.png" height=40% width=40%>
 
 Intended to be used with [Edge Software Provisioner](https://github.com/intel/Edge-Software-Provisioner) and this Centos profile repo.
 
